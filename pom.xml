@@ -15,7 +15,6 @@
 	<description>Gerenciador de Tarefas</description>
 	<properties>
 		<java.version>17</java.version>
-		<start-class>br.com.joão Bittencourt.todolist.TodolistApplication</start-class>
 	</properties>
 	<dependencies>
 
